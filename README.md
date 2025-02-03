@@ -1,1 +1,27 @@
-# api-nodejs
+# 📌 To-Do List - Node.js
+
+- [x] Introdução  
+- [x] Criando um projeto Node.js  
+- [x] `node --watch`  
+- [x] Rotas de criação e listagem (Métodos HTTP)  
+- [ ] Salvando usuários em memória (Headers)  
+- [ ] Conhecendo HTTP status codes  
+- [ ] Entendendo Streams no Node  
+- [ ] Criando stream de leitura  
+- [ ] Stream de escrita e transformação  
+- [ ] Aplicando Streams no módulo HTTP  
+- [ ] Consumindo uma stream completa  
+- [ ] Corpo da requisição em JSON (Stream & Buffers)  
+- [ ] Entendendo Buffers no Node  
+- [ ] Criando middleware de JSON  
+- [ ] Criando banco de dados JSON  
+- [ ] Persistindo banco de dados  
+- [ ] Criando ID único e universal (UUID)  
+- [ ] Separando rotas da aplicação  
+- [ ] Route e Query parameters  
+- [ ] Criando regex dos parâmetros  
+- [ ] Rotas com parâmetros (RegEx)  
+- [ ] Remoção de registros  
+- [ ] Atualização de registros  
+- [ ] Capturando query parameters  
+- [ ] Filtrando lista do banco de dados  
