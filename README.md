@@ -4,7 +4,7 @@
 - [x] Criando um projeto Node.js  
 - [x] `node --watch`  
 - [x] Rotas de criação e listagem (Métodos HTTP)  
-- [ ] Salvando usuários em memória (Headers)  
+- [x] Salvando usuários em memória (Headers)  
 - [ ] Conhecendo HTTP status codes  
 - [ ] Entendendo Streams no Node  
 - [ ] Criando stream de leitura  
