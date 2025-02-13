@@ -5,12 +5,12 @@
 - [x] `node --watch`  
 - [x] Rotas de criação e listagem (Métodos HTTP)  
 - [x] Salvando usuários em memória (Headers)  
-- [ ] Conhecendo HTTP status codes  
-- [ ] Entendendo Streams no Node  
-- [ ] Criando stream de leitura  
-- [ ] Stream de escrita e transformação  
-- [ ] Aplicando Streams no módulo HTTP  
-- [ ] Consumindo uma stream completa  
+- [x] Conhecendo HTTP status codes  
+- [x] Entendendo Streams no Node  
+- [x] Criando stream de leitura  
+- [x] Stream de escrita e transformação  
+- [x] Aplicando Streams no módulo HTTP  
+- [x] Consumindo uma stream completa  
 - [ ] Corpo da requisição em JSON (Stream & Buffers)  
 - [ ] Entendendo Buffers no Node  
 - [ ] Criando middleware de JSON  
