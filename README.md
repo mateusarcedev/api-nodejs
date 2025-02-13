@@ -12,7 +12,7 @@
 - [x] Aplicando Streams no módulo HTTP  
 - [x] Consumindo uma stream completa  
 - [x] Corpo da requisição em JSON (Stream & Buffers)  
-- [ ] Entendendo Buffers no Node  
+- [x] Entendendo Buffers no Node  
 - [ ] Criando middleware de JSON  
 - [ ] Criando banco de dados JSON  
 - [ ] Persistindo banco de dados  
