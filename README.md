@@ -11,7 +11,7 @@
 - [x] Stream de escrita e transformação  
 - [x] Aplicando Streams no módulo HTTP  
 - [x] Consumindo uma stream completa  
-- [ ] Corpo da requisição em JSON (Stream & Buffers)  
+- [x] Corpo da requisição em JSON (Stream & Buffers)  
 - [ ] Entendendo Buffers no Node  
 - [ ] Criando middleware de JSON  
 - [ ] Criando banco de dados JSON  
