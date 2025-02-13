@@ -25,4 +25,6 @@ const server = http.createServer(async (req, res) => {
   return res.end(fullStreamContent)
 })
 
+server.listen(3334)
+
 
