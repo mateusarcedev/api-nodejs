@@ -13,7 +13,7 @@
 - [x] Consumindo uma stream completa  
 - [x] Corpo da requisição em JSON (Stream & Buffers)  
 - [x] Entendendo Buffers no Node  
-- [ ] Criando middleware de JSON  
+- [x] Criando middleware de JSON  
 - [ ] Criando banco de dados JSON  
 - [ ] Persistindo banco de dados  
 - [ ] Criando ID único e universal (UUID)  
