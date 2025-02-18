@@ -14,7 +14,7 @@
 - [x] Corpo da requisição em JSON (Stream & Buffers)  
 - [x] Entendendo Buffers no Node  
 - [x] Criando middleware de JSON  
-- [ ] Criando banco de dados JSON  
+- [x] Criando banco de dados JSON  
 - [ ] Persistindo banco de dados  
 - [ ] Criando ID único e universal (UUID)  
 - [ ] Separando rotas da aplicação  
