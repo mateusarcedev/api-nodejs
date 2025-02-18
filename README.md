@@ -15,7 +15,7 @@
 - [x] Entendendo Buffers no Node  
 - [x] Criando middleware de JSON  
 - [x] Criando banco de dados JSON  
-- [ ] Persistindo banco de dados  
+- [x] Persistindo banco de dados  
 - [ ] Criando ID único e universal (UUID)  
 - [ ] Separando rotas da aplicação  
 - [ ] Route e Query parameters  
