@@ -18,10 +18,10 @@
 - [x] Persistindo banco de dados  
 - [x] Criando ID único e universal (UUID)  
 - [x] Separando rotas da aplicação  
-- [ ] Route e Query parameters  
-- [ ] Criando regex dos parâmetros  
-- [ ] Rotas com parâmetros (RegEx)  
-- [ ] Remoção de registros  
+- [x] Route e Query parameters  
+- [x] Criando regex dos parâmetros  
+- [x] Rotas com parâmetros (RegEx)  
+- [x] Remoção de registros  
 - [ ] Atualização de registros  
 - [ ] Capturando query parameters  
 - [ ] Filtrando lista do banco de dados  
