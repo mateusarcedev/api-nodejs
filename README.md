@@ -23,5 +23,5 @@
 - [x] Rotas com parâmetros (RegEx)  
 - [x] Remoção de registros  
 - [x] Atualização de registros  
-- [ ] Capturando query parameters  
+- [x] Capturando query parameters  
 - [ ] Filtrando lista do banco de dados  
