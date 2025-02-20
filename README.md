@@ -16,7 +16,7 @@
 - [x] Criando middleware de JSON  
 - [x] Criando banco de dados JSON  
 - [x] Persistindo banco de dados  
-- [ ] Criando ID único e universal (UUID)  
+- [x] Criando ID único e universal (UUID)  
 - [ ] Separando rotas da aplicação  
 - [ ] Route e Query parameters  
 - [ ] Criando regex dos parâmetros  
