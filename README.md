@@ -24,4 +24,4 @@
 - [x] Remoção de registros  
 - [x] Atualização de registros  
 - [x] Capturando query parameters  
-- [ ] Filtrando lista do banco de dados  
+- [x] Filtrando lista do banco de dados  
